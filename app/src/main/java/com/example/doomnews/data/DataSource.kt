@@ -47,5 +47,47 @@ object DataSource {
             imageResourceId = R.drawable.cyber,
             lastUpdateTime = "42 mins ago"
         ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_seven,
+            articleResourceId = R.string.article_seven,
+            authorResourceId = R.string.author_seven,
+            imageResourceId = R.drawable.ai_transcendence,
+            lastUpdateTime = "15 mins ago"
+        ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_eight,
+            articleResourceId = R.string.article_eight,
+            authorResourceId = R.string.author_eight,
+            imageResourceId = R.drawable.nature_pharmacy,
+            lastUpdateTime = "1 hour ago"
+        ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_nine,
+            articleResourceId = R.string.article_nine,
+            authorResourceId = R.string.author_nine,
+            imageResourceId = R.drawable.galactic_gateway,
+            lastUpdateTime = "30 mins ago"
+        ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_ten,
+            articleResourceId = R.string.article_ten,
+            authorResourceId = R.string.author_ten,
+            imageResourceId = R.drawable.robot_revolution,
+            lastUpdateTime = "20 mins ago"
+        ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_eleven,
+            articleResourceId = R.string.article_eleven,
+            authorResourceId = R.string.author_eleven,
+            imageResourceId = R.drawable.solar_revolution,
+            lastUpdateTime = "50 mins ago"
+        ),
+        NewsArticle(
+            headlineResourceId = R.string.headline_twelve,
+            articleResourceId = R.string.article_twelve,
+            authorResourceId = R.string.author_twelve,
+            imageResourceId = R.drawable.digital_frontier,
+            lastUpdateTime = "10 mins ago"
+        ),
     )
 }
